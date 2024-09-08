@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","[Squad-1] [Login Feature] [TestCaseID-001] Verify the login functionality of the application under test","1","0","Login with valid username and password","0"
+"0","","1","[Squad-1] [Login Feature] [TestCaseID-001] Verify the login functionality of the application under test","1","0","Login with invalid username and password","0"
+"0","","0","[Squad-2] [Products Feature] [TestCaseID-001] Verify Products Feature","1","0","Verify products information on Products screen","0"
+"0","","0","[Squad-2] [Products Feature] [TestCaseID-001] Verify Products Feature","1","0","Verify products information on Products Details screen","0"
