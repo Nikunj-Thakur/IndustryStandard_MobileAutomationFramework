@@ -1,0 +1,40 @@
+[Android_OnePlus INFO ] 2024-09-08 22:18:55.581 ServerManager:31 - Starting Appium Server on Windows 10...
+[Android_OnePlus INFO ] 2024-09-08 22:19:01.031 ServerManager:41 - Appium Server Started
+[Android_OnePlus INFO ] 2024-09-08 22:19:01.046 DriverManager:29 - Initializing Appium driver
+[Android_OnePlus INFO ] 2024-09-08 22:19:01.059 PropertyManager:21 - loading config properties
+[Android_OnePlus INFO ] 2024-09-08 22:19:01.060 CapabilitiesManager:17 - Getting Common capabilities...
+[Android_OnePlus INFO ] 2024-09-08 22:19:01.069 CapabilitiesManager:34 - appUrl isC:\Users\nikth\IdeaProjects\IndustryStandard_MobileAutomationFramework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_OnePlus INFO ] 2024-09-08 22:19:10.783 DriverManager:41 - Driver is initialized
+[Android_OnePlus INFO ] 2024-09-08 22:19:12.545 BasePage:75 - login with invalidUsername
+[Android_OnePlus INFO ] 2024-09-08 22:19:14.340 BasePage:75 - password is secret_sauce
+[Android_OnePlus INFO ] 2024-09-08 22:19:15.487 BasePage:58 - press login button
+[Android_OnePlus INFO ] 2024-09-08 22:19:16.502 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_OnePlus INFO ] 2024-09-08 22:19:18.221 VideoManager:36 - video path: Android_OnePlus\Videos\Login with invalid username and password.mp4
+[Android_OnePlus INFO ] 2024-09-08 22:19:19.821 BasePage:75 - login with standard_user
+[Android_OnePlus INFO ] 2024-09-08 22:19:21.204 BasePage:75 - password is invalidPassword
+[Android_OnePlus INFO ] 2024-09-08 22:19:22.434 BasePage:58 - press login button
+[Android_OnePlus INFO ] 2024-09-08 22:19:22.936 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_OnePlus INFO ] 2024-09-08 22:19:24.024 VideoManager:36 - video path: Android_OnePlus\Videos\Login with invalid username and password.mp4
+[Android_OnePlus INFO ] 2024-09-08 22:19:26.017 BasePage:75 - login with standard_user
+[Android_OnePlus INFO ] 2024-09-08 22:19:27.907 BasePage:75 - password is secret_sauce
+[Android_OnePlus INFO ] 2024-09-08 22:19:29.084 BasePage:58 - press login button
+[Android_OnePlus INFO ] 2024-09-08 22:19:30.808 BasePage:101 - product page title is - PRODUCTS
+[Android_OnePlus INFO ] 2024-09-08 22:19:30.963 BasePage:58 - press Settings button
+[Android_OnePlus INFO ] 2024-09-08 22:19:33.099 BasePage:58 - press Logout button
+[Android_OnePlus INFO ] 2024-09-08 22:19:34.602 VideoManager:36 - video path: Android_OnePlus\Videos\Login with valid username and password.mp4
+[Android_OnePlus INFO ] 2024-09-08 22:19:35.896 BasePage:75 - login with standard_user
+[Android_OnePlus INFO ] 2024-09-08 22:19:37.714 BasePage:75 - password is secret_sauce
+[Android_OnePlus INFO ] 2024-09-08 22:19:38.410 BasePage:58 - press login button
+[Android_OnePlus INFO ] 2024-09-08 22:19:40.233 BasePage:58 - press Settings button
+[Android_OnePlus INFO ] 2024-09-08 22:19:42.256 BasePage:58 - press Logout button
+[Android_OnePlus INFO ] 2024-09-08 22:19:43.736 VideoManager:36 - video path: Android_OnePlus\Videos\Verify products information on Products screen.mp4
+[Android_OnePlus INFO ] 2024-09-08 22:19:45.073 BasePage:75 - login with standard_user
+[Android_OnePlus INFO ] 2024-09-08 22:19:47.188 BasePage:75 - password is secret_sauce
+[Android_OnePlus INFO ] 2024-09-08 22:19:47.877 BasePage:58 - press login button
+[Android_OnePlus INFO ] 2024-09-08 22:19:51.814 BasePage:58 - press Sauce Labs Onesie link
+[Android_OnePlus INFO ] 2024-09-08 22:19:53.850 BasePage:101 - title is: Sauce Labs Onesie
+[Android_OnePlus INFO ] 2024-09-08 22:19:54.102 BasePage:101 - description is: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+[Android_OnePlus INFO ] 2024-09-08 22:19:57.470 BasePage:101 - price is: $7.99
+[Android_OnePlus INFO ] 2024-09-08 22:19:57.637 BasePage:58 - press Settings button
+[Android_OnePlus INFO ] 2024-09-08 22:19:59.971 BasePage:58 - press Logout button
+[Android_OnePlus INFO ] 2024-09-08 22:20:02.763 VideoManager:36 - video path: Android_OnePlus\Videos\Verify products information on Products Details screen.mp4
